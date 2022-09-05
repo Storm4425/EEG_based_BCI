@@ -20,7 +20,7 @@ paradigms above.
  <br>
   <br>
   
-This project has been realized with the help of two students in the same dissertation research group as the author: Will Adkins and Ruthwik Hosur Paramashivaiah. Ruthwik Hosur Paramashivaiah (<a href="https://github.com/https://github.com/Mithrandir98">Github profile</a>) and Will Adkins (<a href="https://github.com/WillSAdkins">GitHub profile</a>). In particular, the data collection, experimental paradigm and main framework of investigation have been developed collaboratively.
+This project has been realized with the help of two students in the same dissertation research group as the author, Ruthwik Hosur Paramashivaiah (<a href="https://github.com/https://github.com/Mithrandir98">Github profile</a>) and Will Adkins (<a href="https://github.com/WillSAdkins">GitHub profile</a>). In particular, the data collection, experimental paradigm and main framework of investigation have been developed collaboratively.
 
  <br>
   
