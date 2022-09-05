@@ -31,8 +31,8 @@ The data collected can be found <a href="https://drive.google.com/drive/folders/
  <br>
 This repository contains the following files:
 
-- Prompts <br>
-Contains the images and recordings utilized in the experimental paradigm.
+- BCI_pipeline.ipynb
+Contains the code for EEG data preprocessing and speech decoding via machine learning.
 
 - CyKit.ps1 <br>
 Connects pc to EEG device by utilizing CyKit to initialize OpenVibe acquisition server.
@@ -42,6 +42,9 @@ Labels the raw csv EEG data.
 
 - OpenVibe_paradigm.xml <br>
 Experimental paradigm realized on OpenVibe Designer.
+
+- Prompts folder <br>
+Contains the images and recordings utilized in the experimental paradigm.
 
 - randomise_trials.ipynb <br>
 Randomizes the list of prompts that constitute the experimental paradigm.
