@@ -31,7 +31,7 @@ The data collected can be found <a href="https://drive.google.com/drive/folders/
  <br>
 This repository contains the following files:
 
-- BCI_pipeline.ipynb
+- BCI_pipeline.ipynb  <br>
 Contains the code for EEG data preprocessing and speech decoding via machine learning.
 
 - CyKit.ps1 <br>
