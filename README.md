@@ -1,4 +1,4 @@
-# EEG Based BCI
+# EEG-based BCI for speech decoding
 
 This work is realized as dissertation research project for the degree of MSc Data Science at the University of Bath. 
  <br>
