@@ -1,4 +1,4 @@
-# EEG-based BCI for speech decoding
+# EEG-based BCI for speech decoding: a multimodal analysis
 
 This work is realized as dissertation research project for the degree of MSc Data Science at the University of Bath. 
  <br>
@@ -7,20 +7,9 @@ This work is realized as dissertation research project for the degree of MSc Dat
 
 Abstract:
  <br>
-Many studies have shown that machine earning is a promising tool for speech decoding and
-the practical implementation of brain-computer interfaces (BCIs). Of the many technologies
-available, a lot of attention has been directed towards EEG due to its being a non-invasive yet
-effective method to collect brain signals. In this study we focus on two of the main paradigms
-for EEG-based BCIs: inner and imagined speech. We investigate the performance of three
-common machine learning algorithms: random forests, support-vector machines and k-nearest
-neighbours. In particular, we research which method achieve best performance depending on
-the sensory modality of the stimulus which triggers the speaking brain activity. Furthermore,
-the impact of word complexity and word repetition on decoding accuracy is analysed for the
-paradigms above.
+Machine learning (ML) is a promising tool for speech decoding and the practical implementation of brain-computer interfaces (BCI). Of the many technologies available, a lot of attention has been directed towards EEG due to its being a non-invasive yet effective method to measure brain activity. In this study we develop a comprehensive experimental paradigm for the study of two of the most important areas of research in EEG-based BCI: imagined and inner speech. We assess which of these paradigms is most suitable for the realization of BCI by analysing the performance of three common ML algorithms: random forests (RF), support-vector machines (SVM) and k-nearest neighbours (KNN). Furthermore, we explore the influence of stimulus modality, word complexity and repeated imagination on speech decoding accuracy.
  <br>
-  <br>
-  
-This project has been realized with the help of two students in the same dissertation research group as the author, Ruthwik Hosur Paramashivaiah (<a href="https://github.com/https://github.com/Mithrandir98">Github profile</a>) and Will Adkins (<a href="https://github.com/WillSAdkins">GitHub profile</a>). In particular, the data collection, experimental paradigm and main framework of investigation have been developed collaboratively.
+
 
  <br>
   
