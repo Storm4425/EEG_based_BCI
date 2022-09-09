@@ -18,6 +18,15 @@ The dissertation paper can be found here (add link).
 The data collected can be found <a href="https://drive.google.com/drive/folders/1yOWKGGSMLYj_K_Vaq0wTx6WtS_0xOEDg?usp=sharing">here</a>.
 
  <br>
+
+To run the main code, please follow these steps:
+
+- Download the data for at least on participant from the link above.
+- Open BCI_pipeline.ipynb.
+- In the data loading section, change the filepath to match the location of the data on your laptop. 
+- If you haven't downloaded data for all participants, ensure that participant variable is set to a participant that you have downloaded.
+
+ <br>
 This repository contains the following files:
 
 - Prompts folder <br>
