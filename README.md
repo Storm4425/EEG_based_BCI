@@ -13,8 +13,6 @@ Machine learning (ML) is a promising tool for speech decoding and the practical 
 
  <br>
   
-The dissertation paper can be found here (add link).
-  
 The data collected can be found <a href="https://drive.google.com/drive/folders/1yOWKGGSMLYj_K_Vaq0wTx6WtS_0xOEDg?usp=sharing">here</a>.
 
  <br>
