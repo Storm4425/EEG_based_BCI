@@ -24,6 +24,7 @@ To run the main code, please follow these steps:
 2. Open the Jupiter notebook BCI_pipeline.ipynb. This contains the main code along with instructions and comments.
 3. In the data loading section, change the filepath to match the location of the data on your laptop.
 4. If you haven't downloaded data for all participants, ensure that the participant variable is set to the participant data that you have downloaded.
+5. Run BCI_pipeline.ipynb.
 
  <br>
 This repository contains the following files:
