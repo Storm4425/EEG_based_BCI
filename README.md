@@ -16,13 +16,6 @@ Machine learning (ML) is a promising tool for speech decoding and the practical 
 The dissertation paper can be found at https://laidlawscholars.network/manage/documents/192939 and the data collected can be found at https://drive.google.com/drive/folders/1yOWKGGSMLYj_K_Vaq0wTx6WtS_0xOEDg?usp=sharing (data available until 09/09/27).
 
  <br>
- 
-Research objectives:
- <br>
-- O1. To verify whether commercial-grade EEG devices are suitable for the decoding of inner speech.
-- O2. To develop a rigorous and comprehensive EEG experimental paradigm for the study and comparison of inner speech and imagined speech.
-- O3. To provide a publicly available EEG dataset that will allow other researchers to perform a wide array of studies on inner and imagined speech, including the impact of phonetics, complexity and repeated imagination on decoding performance, with a focus on real-world applicability.
-- O4. To investigate the efficacy of different ML approaches (ML, RF and KNN) for both imagined and inner speech, and assessing which paradigm is more suitable for the practical realization of EEG-based BCI.
 
 
  <br>
