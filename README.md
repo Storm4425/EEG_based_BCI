@@ -18,7 +18,6 @@ The dissertation paper can be found at https://laidlawscholars.network/manage/do
  <br>
 
 
- <br>
 To run the main code, please follow these steps:
 
 - Download the data for at least on participant from the link above.
