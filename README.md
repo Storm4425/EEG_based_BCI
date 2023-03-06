@@ -1,4 +1,4 @@
-# EEG-based BCI for speech decoding: a multimodal analysis
+# Using AI to read the mind: EEG-based brain-computer interface for multi-modal speech decoding
 
 This work is realized as dissertation research project for the degree of MSc Data Science at the University of Bath. 
  <br>
@@ -7,16 +7,25 @@ This work is realized as dissertation research project for the degree of MSc Dat
 
 Abstract:
  <br>
-Machine learning (ML) is a promising tool for speech decoding and the practical implementation of brain-computer interfaces (BCI). Of the many technologies available, a lot of attention has been directed towards EEG due to its being a non-invasive yet effective method to measure brain activity. In this study we develop a comprehensive experimental paradigm for the study of two of the most important areas of research in EEG-based BCI: imagined and inner speech. We assess which of these paradigms is most suitable for the realization of BCI by analysing the performance of three common ML algorithms: random forests (RF), support-vector machines (SVM) and k-nearest neighbours (KNN). Furthermore, we explore the influence of stimulus modality, word complexity and repeated imagination on speech decoding accuracy.
+Machine learning (ML) is a promising tool for speech decoding and the practical implementation of brain-computer interfaces (BCI). Of the many technologies available, a lot of attention has been directed towards EEG due to its being a non-invasive yet effective method to measure brain activity. In this study we develop a comprehensive experimental paradigm and gather experimental data from 9 participants. We study two of the most important areas of research in EEG-based BCI: imagined and inner speech, with a focus on practical implementation within the healthcare domain. We assess which of these paradigms is most suitable for the realization of BCI by analysing the performance of three common ML algorithms: random forests (RF), support-vector machines (SVM) and k-nearest neighbours (KNN). Furthermore, we explore the influence of stimulus modality, word complexity and repeated imagination on speech decoding accuracy. We obtain statistically significant results well above chance-level, notably for RF and audio-elicited prompts.
  <br>
 
 
  <br>
   
-The data collected can be found <a href="https://drive.google.com/drive/folders/1yOWKGGSMLYj_K_Vaq0wTx6WtS_0xOEDg?usp=sharing">here</a>.
+The dissertation paper can be found <a href="https://laidlawscholars.network/manage/documents/192939">here</a> and the data collected can be found <a href="https://drive.google.com/drive/folders/1yOWKGGSMLYj_K_Vaq0wTx6WtS_0xOEDg?usp=sharing">here</a> (data available until 09/09/27).
 
  <br>
+ 
+Research objectives:
+ <br>
+• O1. To verify whether commercial-grade EEG devices are suitable for the decoding of inner speech.
+• O2. To develop a rigorous and comprehensive EEG experimental paradigm for the study and comparison of inner speech and imagined speech.
+• O3. To provide a publicly available EEG dataset that will allow other researchers to perform a wide array of studies on inner and imagined speech, including the impact of phonetics, complexity and repeated imagination on decoding performance, with a focus on real-world applicability.
+• O4. To investigate the efficacy of different ML approaches (ML, RF and KNN) for both imagined and inner speech, and assessing which paradigm is more suitable for the practical realization of EEG-based BCI.
 
+
+ <br>
 To run the main code, please follow these steps:
 
 - Download the data for at least on participant from the link above.
