@@ -20,10 +20,10 @@ The dissertation paper can be found at https://laidlawscholars.network/manage/do
 
 To run the main code, please follow these steps:
 
-- Download the data for at least on participant from the link above.
-- Open the Jupiter notebook BCI_pipeline.ipynb. This contains the main code along with instructions and comments.
-- In the data loading section, change the filepath to match the location of the data on your laptop.
-- If you haven't downloaded data for all participants, ensure that the participant variable is set to the participant data that you have downloaded.
+1 Download the data for at least on participant from the link above.
+2 Open the Jupiter notebook BCI_pipeline.ipynb. This contains the main code along with instructions and comments.
+3 In the data loading section, change the filepath to match the location of the data on your laptop.
+4 If you haven't downloaded data for all participants, ensure that the participant variable is set to the participant data that you have downloaded.
 
  <br>
 This repository contains the following files:
